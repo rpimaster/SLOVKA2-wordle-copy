@@ -1,0 +1,13 @@
+# SLOVKA2 Wordle Copy
+
+Wordle-inspired learning project built with help from a tutorial.
+
+## About
+This repository contains a simple Wordle-style web game created while practicing frontend development.
+
+The project helped me improve my understanding of JavaScript logic, UI behavior, and browser-based game development.
+
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
