@@ -4,7 +4,7 @@ Wordle-inspired learning project built with help from a tutorial.
 
 ## Preview
 
-[Watch preview](./Preview/slovka2-preview.mp4)
+https://github.com/user-attachments/assets/5562d12b-ea60-40a2-973e-6a955a11e455
 
 ## About
 This repository contains a simple Wordle-style web game created while practicing frontend development.
