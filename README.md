@@ -7,6 +7,8 @@ This repository contains a simple Wordle-style web game created while practicing
 
 The project helped me improve my understanding of JavaScript logic, UI behavior, and browser-based game development.
 
+The project is currently available only in Slovak.
+
 ## Tech Stack
 - HTML
 - CSS
